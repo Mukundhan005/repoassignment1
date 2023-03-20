@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 4423-0596
-
- Directory of C:\Users\mukund-16128\Desktop\GITLEARN\AssesmentGit
-
-20-03-2023  16:25    <DIR>          .
-20-03-2023  16:25    <DIR>          ..
-20-03-2023  16:25                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  54,219,255,808 bytes free
+Hello its Assesment 1
